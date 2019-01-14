@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: Tristan Azevedo
-  location: Straßburger Straße 9, 10405 Prenzlauer Berg
-  social: Around the Web
-  credits: Credits
+  location: Location
+  social: Maps
+  credits: Phone
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -49,7 +49,7 @@ address:
   - line: 10405 Prenzlauer Berg
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '+49 152 5305 5016'
 
 # Build settings
 markdown: kramdown
