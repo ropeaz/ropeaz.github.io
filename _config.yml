@@ -54,3 +54,5 @@ credits: '+49 152 5305 5016'
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+gems: [jekyll-youtube]
